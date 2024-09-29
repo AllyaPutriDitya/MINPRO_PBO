@@ -1,6 +1,6 @@
 # MINPRO_PBO
 
-tampilan utama program yang menyediakan 5 menu (CRUD) dan exit
+Tampilan utama program yang menyediakan 5 menu (CRUD) dan exit
 
 ![Screenshot 2024-09-29 080947](https://github.com/user-attachments/assets/c89702b4-b06a-4d28-98b7-adabff7b93ca)
 
